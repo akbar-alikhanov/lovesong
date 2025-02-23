@@ -1,4 +1,7 @@
 # lovesong
 git clone https://github.com/akbar-alikhanov/lovesong.git
-cd repository-name
-touch song.txt
+cd lovesong
+git add song.txt
+git commit -m "Added lyrics to song.txt"
+git push origin main
+
